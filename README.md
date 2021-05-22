@@ -1,6 +1,8 @@
 # ecommerce-react
 A Ecommerce application made using firebase for login authentication, react for frontend and redux for state management.It covers basic features of any shopping app like add to cart, checkout, payment(test payment using stripe).
 
+link - https://shopping-live-react-1706.herokuapp.com/
+
 <img width="1792" alt="Screenshot 2021-05-22 at 3 30 44 PM" src="https://user-images.githubusercontent.com/26921687/119222620-deff2280-bb12-11eb-9753-5f12b161ce52.png">
 <img width="1792" alt="Screenshot 2021-05-22 at 3 30 58 PM" src="https://user-images.githubusercontent.com/26921687/119222626-e0c8e600-bb12-11eb-99f6-720d030c4337.png">
 <img width="1792" alt="Screenshot 2021-05-22 at 3 31 10 PM" src="https://user-images.githubusercontent.com/26921687/119222628-e1fa1300-bb12-11eb-8ad8-83b06ff5d31a.png">
