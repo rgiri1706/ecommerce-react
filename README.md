@@ -6,3 +6,4 @@ A Ecommerce application made using firebase for login authentication, react for 
 <img width="1792" alt="Screenshot 2021-05-22 at 3 31 10 PM" src="https://user-images.githubusercontent.com/26921687/119222628-e1fa1300-bb12-11eb-8ad8-83b06ff5d31a.png">
 <img width="1792" alt="Screenshot 2021-05-22 at 3 31 29 PM" src="https://user-images.githubusercontent.com/26921687/119222631-e4f50380-bb12-11eb-9571-34d011629c8b.png">
 <img width="1792" alt="Screenshot 2021-05-22 at 3 31 38 PM" src="https://user-images.githubusercontent.com/26921687/119222635-e8888a80-bb12-11eb-8267-667f58e8c883.png">
+<img width="1792" alt="Screenshot 2021-05-22 at 3 31 48 PM" src="https://user-images.githubusercontent.com/26921687/119222679-24bbeb00-bb13-11eb-8459-911864621e78.png">
